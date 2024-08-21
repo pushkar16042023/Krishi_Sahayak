@@ -1,0 +1,10 @@
+Flask
+gunicorn
+itsdangerous
+Jinja2
+requests
+markupsafe
+pytz
+openai
+pymongo
+razorpay
